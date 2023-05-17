@@ -1,0 +1,8 @@
+certifi==2023.5.7
+idna==3.4
+requests==2.30.0
+schedule==1.2.0
+urllib3==1.26.6
+pip~=22.3.1
+wheel~=0.38.4
+setuptools~=65.5.1
