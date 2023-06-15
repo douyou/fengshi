@@ -3,7 +3,7 @@
 
 使用步骤：
 1. git clone <url>
-2. 安装依赖 pip install -r requirements.txt
+2. 安装依赖python3.8,安装依赖包： pip install -r requirements.txt
 3. fengshi.py 中的cookie、addressId、businessDistrictId、companyId需要替换成自己的。可以使用抓包工具，在pc端丰食走一遍订餐流程，抓到这些参数。
 3. 运行 python fengshi.py，首先执行一次，之后每隔45分钟执行一次，直到订餐成功。
 
