@@ -16,7 +16,7 @@ fengshi.py 主体代码
 <br />
 主体函数 orderDish
 <br />
-参数：foodNames: List[str] 喜欢的餐品名称列表
+参数：foodNames: List[str] 喜欢的餐品名称关键字，排序靠前的权重大
 <br />
 主要逻辑：
 <br />
